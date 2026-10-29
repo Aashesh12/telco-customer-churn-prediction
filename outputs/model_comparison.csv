@@ -1,0 +1,5 @@
+Metric,Logistic Regression,Random Forest
+Accuracy,0.738,0.77
+Precision,0.504,0.559
+Recall,0.783,0.634
+F1-score,0.614,0.594
